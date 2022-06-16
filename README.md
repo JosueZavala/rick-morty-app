@@ -37,5 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You also could check results in following links:
 
 [rick-morty-app-josuezavala.vercel.app](rick-morty-app-josuezavala.vercel.app)
+
 [rick-morty-app-eight.vercel.app](rick-morty-app-eight.vercel.app)
+
 [rick-morty-app-git-main-josuezavala.vercel.app](rick-morty-app-git-main-josuezavala.vercel.app)
